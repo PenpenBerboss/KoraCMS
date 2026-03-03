@@ -1,0 +1,7 @@
+{
+  "name": "KoraCMS",
+  "description": "Le CMS professionnel moderne conçu pour les PME africaines. Mobile-first, optimisé pour la faible bande passante et intégrant les paiements locaux.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
